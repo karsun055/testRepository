@@ -5,3 +5,5 @@ Created on Jun 24, 2018
 '''
 def printFirst10():
     print([x for x in range(10)])
+    
+#printFirst10()
